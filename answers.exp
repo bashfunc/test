@@ -1,7 +1,7 @@
 #!/usr/bin/expect -f
 
 set timeout -1
-spawn ../4/questions.sh
+spawn ./questions.sh
 
 expect "Your name: "
 send -- "expect\n"
