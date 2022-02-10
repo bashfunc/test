@@ -10,7 +10,7 @@ debian
 
 fedora
 
-    sudo dnf install snapd
+    sudo dnf install expect
 
 Let’s save this script into a file named expect-script.exp, and run it:
 
